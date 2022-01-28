@@ -61,6 +61,8 @@ class FruitsFragment  : Fragment(R.layout.fruits_fragment) {
 
 /**
  *
+ *
+ *
 
 
 viewModel.coinz.observe(viewLifecycleOwner, Observer {
